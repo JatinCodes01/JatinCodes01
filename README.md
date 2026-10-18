@@ -65,8 +65,8 @@ A C++ console-based application for managing restaurant operations.
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: [My LinkedIn](YOUR-LINKEDIN-URL)
-- 📧 Email: YOUR-EMAIL
+- 💼 LinkedIn: [My LinkedIn]](https://www.linkedin.com/in/jatin-roghani/)
+- 📧 Email: Jatinkumar317319@gmail.com
 
 ---
 
