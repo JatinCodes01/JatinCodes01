@@ -38,7 +38,7 @@ A Harry Potter-themed reaction game where you stop a randomly appearing image wh
 - 🖼️ Match the correct image with the given name.
 - 🧰 Built using HTML, CSS, JavaScript, and Python.
 
-🔗 [View Project](https://github.com/YOUR-USERNAME/reaction-time-lab-harry-potter)
+🔗 [View Project](https://github.com/JatinCodes01/reaction-time-lab-harry-potter)
 
 ### 🍽️ Restaurant Management System
 
@@ -50,7 +50,7 @@ A C++ console-based application for managing restaurant operations.
 - 💰 Tax, discounts, and delivery charges.
 - 💾 File handling for data storage.
 
-🔗 [View Project](https://github.com/Jatin82685/Restaurant-Management-System-in-C-language)
+🔗 [View Project](https://github.com/JatinCodes01/Restaurant-Management-System-in-C-language)
 
 ---
 
